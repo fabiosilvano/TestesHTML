@@ -1,0 +1,2 @@
+Dever : Criar uma area de navegação ex: topo (Header) com as seguintes carcteristicas, area de logo(posição a esquerda) e menu(posição a direita), 
+distância entre os links e retirar os valores padrão da tag <ul> e <a>.
